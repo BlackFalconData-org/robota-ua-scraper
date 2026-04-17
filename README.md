@@ -2,11 +2,12 @@
 
 Extract structured data from [robota.ua](https://robota.ua) — robota.ua job listings with salary, company, skills, and contact data. Supports keyword search, city/category filters, incremental tracking, and compact output for AI agents.
 
-**[Robota.ua Scraper on Apify →](https://apify.com/blackfalcondata/robota-ua-scraper)**
+**[Robota.ua Scraper - Ukraine Job Listings on Apify →](https://apify.com/blackfalcondata/robota-ua-scraper)**
 
 ---
 
 ## Key features
+
 
 
 
@@ -19,6 +20,7 @@ Extract structured data from [robota.ua](https://robota.ua) — robota.ua job li
 ---
 
 ## Use cases
+
 
 
 
@@ -86,6 +88,7 @@ Each listing gets a content hash. On subsequent runs, only new or changed listin
 ---
 
 ## Related products by Black Falcon Data
+
 
 
 
