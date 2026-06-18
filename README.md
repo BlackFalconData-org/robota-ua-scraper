@@ -4,6 +4,21 @@ Extract structured data from [robota.ua](https://robota.ua) — robota.ua job li
 
 **[Robota.ua Scraper - Ukraine Job Listings on Apify →](https://apify.com/blackfalcondata/robota-ua-scraper?fpr=1h3gvi)**
 
+
+## 🚀 How to use this actor
+
+> ### 💚 $5 free Apify credits — every month
+> No credit card required. No commitment. Cancel anytime.
+
+### 👉 [Sign up free on Apify →](https://console.apify.com/sign-up?fpr=1h3gvi)
+
+1. **Click sign up** — pick GitHub, Google, or email; takes ~30 seconds
+2. **Open this actor** — input is pre-filled with a working example
+3. **Click Start** — export results as JSON, CSV, or Excel
+
+Your **$5 monthly platform credit** is enough to run this actor right away — and again every month — scraping typically several hundred to several thousand results per run, depending on your input.
+
+
 ---
 
 ## Key features
@@ -13,7 +28,8 @@ Extract structured data from [robota.ua](https://robota.ua) — robota.ua job li
 
 
 
-**Search with filters** — Search by keyword and location.
+
+**Search with filters** — Search by keyword and location. Filter by description format, and more.
 
 **Detail enrichment** — Fetch full job descriptions, salary data, employer profiles, contact information for each listing.
 
@@ -34,6 +50,7 @@ Extract structured data from [robota.ua](https://robota.ua) — robota.ua job li
 ---
 
 ## Use cases
+
 
 
 
@@ -209,12 +226,13 @@ See the [actor on Apify](https://apify.com/blackfalcondata/robota-ua-scraper?fpr
 
 
 
+
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
+- [LinkedIn Jobs Scraper](https://apify.com/blackfalcondata/linkedin-jobs-scraper?fpr=1h3gvi) — World's largest professional network — global job listings, no login required
 - [Glassdoor Job Scraper](https://apify.com/blackfalcondata/glassdoor-job-scraper?fpr=1h3gvi) — Glassdoor listings with company ratings
 - [Arbeitsagentur Scraper](https://apify.com/blackfalcondata/arbeitsagentur-scraper?fpr=1h3gvi) — Germany's official job portal (1M+ listings)
 - [SEEK Scraper](https://apify.com/blackfalcondata/seek-scraper?fpr=1h3gvi) — Australia & NZ's largest job board
-- [Naukri Scraper](https://apify.com/blackfalcondata/naukri-scraper?fpr=1h3gvi) — India's largest job portal
 
 ---
 
